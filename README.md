@@ -1,6 +1,5 @@
 # Python-for-Data-Analysis
 Python fundamentals for data analysis with hands-on examples
-# Python for Data Analysis
 
 This repository contains beginner‑level Python examples focused on fundamentals used in data analysis.
 
